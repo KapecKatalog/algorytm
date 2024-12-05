@@ -1,0 +1,14 @@
+c:\Users\janos\Desktop\na infe\bin\Debug\net8.0\na infe.exe
+c:\Users\janos\Desktop\na infe\bin\Debug\net8.0\na infe.deps.json
+c:\Users\janos\Desktop\na infe\bin\Debug\net8.0\na infe.runtimeconfig.json
+c:\Users\janos\Desktop\na infe\bin\Debug\net8.0\na infe.dll
+c:\Users\janos\Desktop\na infe\bin\Debug\net8.0\na infe.pdb
+c:\Users\janos\Desktop\na infe\obj\Debug\net8.0\na infe.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\janos\Desktop\na infe\obj\Debug\net8.0\na infe.AssemblyInfoInputs.cache
+c:\Users\janos\Desktop\na infe\obj\Debug\net8.0\na infe.AssemblyInfo.cs
+c:\Users\janos\Desktop\na infe\obj\Debug\net8.0\na infe.csproj.CoreCompileInputs.cache
+c:\Users\janos\Desktop\na infe\obj\Debug\net8.0\na infe.dll
+c:\Users\janos\Desktop\na infe\obj\Debug\net8.0\refint\na infe.dll
+c:\Users\janos\Desktop\na infe\obj\Debug\net8.0\na infe.pdb
+c:\Users\janos\Desktop\na infe\obj\Debug\net8.0\na infe.genruntimeconfig.cache
+c:\Users\janos\Desktop\na infe\obj\Debug\net8.0\ref\na infe.dll
